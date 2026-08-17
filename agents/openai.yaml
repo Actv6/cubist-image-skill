@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cubist Image"
+  short_description: "将人物建筑风景照片强烈解构为原创毕加索式立体主义艺术图像"
+  default_prompt: "Use $cubist-image to transform my photo into a strongly deconstructed original Cubist artwork."
